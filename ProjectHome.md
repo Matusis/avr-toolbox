@@ -1,0 +1,1 @@
+Some libs for using with Atmel AVR MCU and avr-libc.
